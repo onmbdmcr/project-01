@@ -103,7 +103,7 @@ function renderNav() {
       <div class="flex items-center justify-between h-16">
         <a href="index.html" class="flex items-center gap-2 text-white font-bold">
           <span class="inline-flex items-center justify-center w-9 h-9 rounded bg-ocean-700 text-sand-300 p-1"><img src="./assets/img/logo.png"></span>
-          <span class="text-sm sm:text-base leading-tight">แดชบอร์ดกลไกการดำเนินงาน<br class="hidden sm:block"><span class="text-xs font-normal text-ocean-200"> ทรัพยากรทางทะเลและชายฝั่ง</span></span>
+          <span class="text-sm sm:text-base leading-tight">กลไกการดำเนินงาน<br class="hidden sm:block"><span class="text-xs font-normal text-ocean-200"> ทรัพยากรทางทะเลและชายฝั่ง</span></span>
         </a>
         <div class="hidden md:flex items-center gap-1">${linkItems}</div>
         <button id="nav-toggle" class="md:hidden text-white p-2 rounded-lg hover:bg-white/10" aria-label="เปิดเมนู">
